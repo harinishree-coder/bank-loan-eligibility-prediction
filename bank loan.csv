@@ -1,0 +1,501 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,Applicant_Income,Coapplicant_Income,Loan_Amount,Loan_Amount_Term,Credit_History,Property_Area,Employment_Type,Age,Monthly_Expenses,Savings_Amount,Existing_Loans,Loan_Purpose,Loan_Status
+LN2000,Male,Yes,1,Graduate,Yes,222413,158285,119300,240,1,Semiurban,Business,23,25515,513930,0,Home,Approved
+LN2001,Female,Yes,2,Not Graduate,No,362670,188856,79700,180,1,Urban,Government,33,71822,145558,1,Education,Approved
+LN2002,Male,Yes,0,Not Graduate,No,430904,7421,23100,240,1,Rural,Private,39,56133,458456,1,Vehicle,Approved
+LN2003,Male,No,0,Graduate,No,147837,17727,114300,120,1,Rural,Government,32,36972,938704,0,Personal,Approved
+LN2004,Male,Yes,0,Graduate,No,360550,112418,63500,300,1,Semiurban,Business,37,52092,839148,0,Home,Approved
+LN2005,Female,Yes,0,Graduate,Yes,373680,4358,111300,300,1,Urban,Business,39,31410,197646,1,Personal,Approved
+LN2006,Male,No,3,Not Graduate,No,128541,65108,32600,120,0,Rural,Government,56,39522,817175,0,Vehicle,Approved
+LN2007,Male,Yes,0,Not Graduate,Yes,179083,94018,92100,180,1,Semiurban,Private,47,29095,516933,0,Home,Rejected
+LN2008,Male,No,3,Not Graduate,Yes,134531,124457,97000,300,1,Urban,Private,37,43047,554515,1,Personal,Rejected
+LN2009,Female,No,3,Not Graduate,Yes,370856,163189,50400,360,1,Rural,Business,27,40470,767186,0,Personal,Approved
+LN2010,Male,Yes,0,Graduate,Yes,466245,31910,30100,300,1,Rural,Government,33,63129,725573,0,Vehicle,Approved
+LN2011,Male,No,0,Graduate,Yes,427599,126888,13700,360,0,Semiurban,Government,34,28531,121916,2,Personal,Rejected
+LN2012,Male,Yes,1,Graduate,No,174744,55754,104100,120,1,Urban,Private,25,57038,771511,1,Vehicle,Rejected
+LN2013,Male,No,2,Graduate,No,352859,193510,28700,120,1,Urban,Private,23,42403,309590,2,Education,Rejected
+LN2014,Female,No,0,Not Graduate,No,229749,109847,118000,300,1,Rural,Private,47,62674,822378,2,Vehicle,Approved
+LN2015,Male,Yes,1,Not Graduate,No,367253,160443,104000,240,1,Rural,Government,48,49122,625194,2,Education,Approved
+LN2016,Female,No,1,Graduate,Yes,411412,182573,114300,360,1,Rural,Private,48,36940,836895,0,Home,Rejected
+LN2017,Female,No,2,Graduate,No,331809,192018,37200,180,1,Urban,Private,36,49831,999477,0,Personal,Approved
+LN2018,Female,No,3,Not Graduate,Yes,416759,38467,68200,300,1,Semiurban,Business,29,77174,124694,2,Vehicle,Approved
+LN2019,Male,No,0,Graduate,No,182503,148697,61500,180,1,Semiurban,Private,28,31279,463867,2,Vehicle,Approved
+LN2020,Female,No,2,Not Graduate,Yes,354346,33893,62500,300,1,Urban,Private,33,58220,905126,2,Personal,Approved
+LN2021,Male,Yes,0,Graduate,Yes,185708,76329,43500,240,1,Semiurban,Government,34,72719,332152,0,Personal,Approved
+LN2022,Female,No,1,Graduate,No,291184,31007,79700,240,0,Rural,Government,38,79400,120474,2,Home,Approved
+LN2023,Female,Yes,1,Graduate,Yes,202471,170604,117800,240,0,Semiurban,Business,38,73051,612473,2,Home,Approved
+LN2024,Female,No,3,Graduate,Yes,354225,54253,59900,240,1,Semiurban,Private,57,26477,400068,1,Vehicle,Approved
+LN2025,Female,Yes,1,Graduate,No,257661,12323,99900,120,1,Semiurban,Business,42,76652,312048,1,Home,Approved
+LN2026,Female,Yes,1,Graduate,Yes,261087,111335,86500,120,1,Rural,Government,29,37400,830862,0,Education,Approved
+LN2027,Female,No,2,Graduate,No,260081,112356,63500,360,1,Urban,Business,26,26470,776499,1,Home,Approved
+LN2028,Female,No,0,Not Graduate,No,445453,110944,26100,180,1,Rural,Government,47,22062,871412,1,Home,Approved
+LN2029,Female,No,0,Not Graduate,No,488590,145282,69300,300,1,Urban,Business,37,61798,596792,1,Vehicle,Rejected
+LN2030,Male,Yes,2,Not Graduate,Yes,293118,16456,25800,300,1,Urban,Business,57,78981,104970,0,Education,Approved
+LN2031,Male,No,3,Not Graduate,Yes,468805,31367,15900,120,1,Urban,Private,49,73473,328910,1,Home,Approved
+LN2032,Female,Yes,0,Not Graduate,Yes,257215,54624,101400,300,1,Semiurban,Business,50,39880,691232,0,Education,Approved
+LN2033,Female,Yes,1,Graduate,No,106154,141178,31000,120,1,Semiurban,Private,33,54581,930354,2,Education,Rejected
+LN2034,Female,Yes,0,Graduate,Yes,252876,68008,50500,360,1,Urban,Private,58,64439,454911,1,Education,Approved
+LN2035,Male,No,1,Not Graduate,No,164288,125926,76300,180,1,Urban,Private,51,75408,461012,0,Personal,Approved
+LN2036,Female,No,3,Graduate,No,151195,115395,119900,360,1,Semiurban,Private,44,34308,223615,1,Personal,Approved
+LN2037,Male,Yes,2,Not Graduate,Yes,382725,116492,64100,240,1,Rural,Business,37,46027,982063,2,Personal,Approved
+LN2038,Male,Yes,0,Not Graduate,No,392231,72240,109700,240,1,Urban,Government,35,50720,547666,0,Personal,Rejected
+LN2039,Male,No,2,Graduate,Yes,281002,64315,102600,240,1,Rural,Government,31,55081,738499,0,Vehicle,Rejected
+LN2040,Male,Yes,0,Graduate,Yes,264053,10756,96700,360,1,Semiurban,Government,28,29706,170494,0,Home,Approved
+LN2041,Male,No,1,Graduate,Yes,169298,199083,11800,300,1,Urban,Business,58,70383,809229,2,Personal,Approved
+LN2042,Female,Yes,2,Not Graduate,Yes,408311,36378,53100,180,1,Rural,Private,50,29837,583090,2,Vehicle,Approved
+LN2043,Female,No,0,Graduate,Yes,306376,135327,83900,240,1,Rural,Government,24,58599,221277,2,Home,Approved
+LN2044,Female,Yes,1,Not Graduate,No,139499,145556,28200,240,1,Rural,Business,36,72151,541966,0,Personal,Approved
+LN2045,Female,No,2,Not Graduate,No,487960,125703,21200,240,1,Semiurban,Private,57,72592,346303,2,Home,Approved
+LN2046,Female,Yes,2,Not Graduate,No,269631,56549,58000,180,1,Semiurban,Government,40,56824,61516,1,Personal,Approved
+LN2047,Male,No,0,Graduate,Yes,345198,165575,93000,240,0,Rural,Private,34,53073,362636,2,Vehicle,Approved
+LN2048,Female,No,0,Graduate,Yes,342997,73794,86200,180,1,Rural,Government,42,67115,865518,0,Education,Rejected
+LN2049,Female,Yes,0,Not Graduate,Yes,196347,45113,57500,240,1,Semiurban,Government,58,52088,688046,1,Education,Approved
+LN2050,Male,Yes,1,Graduate,No,410931,74069,86200,360,1,Rural,Government,48,48112,604768,2,Home,Rejected
+LN2051,Female,No,0,Graduate,Yes,397632,136321,107000,360,1,Rural,Private,50,46299,233163,1,Vehicle,Approved
+LN2052,Male,Yes,2,Graduate,No,436585,150273,111900,180,1,Semiurban,Business,41,54457,178023,1,Education,Approved
+LN2053,Female,No,2,Not Graduate,No,305735,125541,26000,360,1,Rural,Private,46,78861,422339,0,Personal,Approved
+LN2054,Male,Yes,0,Not Graduate,Yes,122431,189648,50000,180,1,Rural,Government,27,50063,228838,1,Education,Approved
+LN2055,Female,No,0,Graduate,Yes,423825,9686,29700,360,1,Rural,Private,57,23917,875169,1,Home,Approved
+LN2056,Female,No,3,Not Graduate,No,294555,53363,75900,360,0,Semiurban,Business,23,76232,321409,0,Home,Approved
+LN2057,Male,No,2,Graduate,Yes,222720,97543,117000,180,1,Rural,Private,43,77763,688453,0,Vehicle,Rejected
+LN2058,Male,No,1,Graduate,No,149153,131733,49800,300,1,Semiurban,Business,53,22936,693789,0,Home,Approved
+LN2059,Male,No,3,Graduate,Yes,368512,175915,17700,360,1,Semiurban,Business,37,56630,823617,1,Education,Approved
+LN2060,Male,No,0,Graduate,Yes,474504,95673,22300,240,1,Urban,Private,39,34506,383134,1,Education,Rejected
+LN2061,Male,Yes,0,Not Graduate,No,276076,192035,17400,300,1,Urban,Government,26,48805,544670,1,Education,Approved
+LN2062,Male,Yes,2,Not Graduate,Yes,319724,42828,23600,180,1,Rural,Business,57,34318,851818,0,Education,Approved
+LN2063,Male,Yes,0,Not Graduate,No,474899,48604,70100,300,1,Semiurban,Private,51,68068,941150,2,Vehicle,Approved
+LN2064,Male,No,1,Graduate,Yes,156985,10526,93600,120,1,Urban,Business,40,46026,873857,1,Personal,Rejected
+LN2065,Female,No,2,Graduate,No,412213,68910,59900,120,0,Rural,Government,44,47672,171635,2,Personal,Rejected
+LN2066,Female,No,0,Graduate,No,414470,25592,23700,360,0,Urban,Private,55,58417,748614,0,Vehicle,Rejected
+LN2067,Male,No,2,Not Graduate,Yes,208737,28982,14900,360,0,Urban,Private,34,72413,270935,1,Home,Approved
+LN2068,Female,Yes,0,Graduate,No,312133,207,107200,240,1,Semiurban,Private,50,78508,561566,2,Personal,Rejected
+LN2069,Female,Yes,0,Not Graduate,Yes,254470,88733,35300,300,1,Semiurban,Government,57,79213,103634,1,Home,Approved
+LN2070,Female,No,0,Not Graduate,Yes,329465,124982,80900,120,1,Urban,Business,43,70971,753022,1,Personal,Approved
+LN2071,Female,Yes,1,Not Graduate,Yes,150861,68619,66200,360,1,Urban,Private,57,47281,923420,1,Home,Approved
+LN2072,Male,Yes,1,Not Graduate,No,438041,160400,85600,300,1,Semiurban,Business,30,68442,809144,2,Vehicle,Approved
+LN2073,Female,No,2,Not Graduate,No,312977,46479,64600,360,1,Rural,Business,40,48091,942769,0,Education,Rejected
+LN2074,Male,Yes,0,Not Graduate,Yes,227118,151175,102100,360,1,Semiurban,Government,59,70494,542503,1,Home,Rejected
+LN2075,Female,No,0,Graduate,Yes,430721,170963,68000,120,1,Urban,Private,27,58328,268599,0,Education,Approved
+LN2076,Female,Yes,1,Graduate,No,296713,141826,14800,120,1,Rural,Business,36,68219,287919,0,Home,Approved
+LN2077,Female,No,0,Not Graduate,Yes,109078,81437,101600,360,1,Urban,Private,41,38610,518668,2,Home,Approved
+LN2078,Male,No,1,Not Graduate,Yes,424912,98540,119700,180,1,Rural,Private,30,21079,453359,2,Home,Rejected
+LN2079,Female,No,0,Graduate,No,151047,72982,80300,360,0,Urban,Government,53,49850,534607,0,Home,Approved
+LN2080,Male,No,2,Not Graduate,Yes,433770,102747,36000,360,1,Rural,Private,25,66751,983085,1,Home,Approved
+LN2081,Female,Yes,0,Not Graduate,No,419804,186994,45500,240,1,Rural,Private,39,40590,641731,2,Education,Approved
+LN2082,Male,No,0,Graduate,Yes,335458,48231,73700,240,1,Urban,Business,26,75432,341568,1,Home,Approved
+LN2083,Female,No,3,Not Graduate,No,495141,29301,84200,240,1,Rural,Government,41,50951,400988,1,Education,Approved
+LN2084,Male,No,1,Not Graduate,Yes,315048,193783,110900,180,0,Semiurban,Private,44,35327,878416,1,Vehicle,Rejected
+LN2085,Male,Yes,0,Not Graduate,Yes,336293,172395,103000,180,1,Urban,Business,32,32755,91505,0,Personal,Approved
+LN2086,Female,No,0,Graduate,No,217832,18752,74000,360,1,Semiurban,Government,58,79872,152478,1,Home,Approved
+LN2087,Male,Yes,3,Graduate,Yes,492550,98452,89100,240,1,Urban,Government,43,27235,112699,0,Personal,Approved
+LN2088,Female,No,3,Graduate,No,225150,144467,71100,180,1,Rural,Business,25,37197,994461,0,Education,Approved
+LN2089,Female,Yes,1,Not Graduate,Yes,257087,121237,90800,120,1,Rural,Business,50,41473,468680,1,Vehicle,Rejected
+LN2090,Female,Yes,3,Not Graduate,No,133320,56273,78500,360,1,Rural,Business,55,22031,950444,1,Vehicle,Approved
+LN2091,Female,No,2,Graduate,No,427025,91878,28700,300,1,Urban,Business,34,61282,204721,1,Vehicle,Approved
+LN2092,Female,Yes,3,Not Graduate,No,190827,4895,108400,360,1,Semiurban,Business,30,61863,871190,1,Personal,Approved
+LN2093,Female,No,2,Not Graduate,No,464359,119968,64700,300,0,Semiurban,Private,52,78885,186668,0,Education,Approved
+LN2094,Female,No,1,Not Graduate,Yes,359931,115700,82400,240,1,Urban,Private,28,34287,328518,1,Home,Approved
+LN2095,Female,No,1,Not Graduate,Yes,496605,76559,102500,300,1,Urban,Government,25,58679,692974,1,Home,Approved
+LN2096,Female,Yes,1,Not Graduate,No,423694,10699,97500,240,1,Semiurban,Private,40,64463,315919,0,Education,Approved
+LN2097,Female,Yes,1,Graduate,No,124826,196133,71700,120,1,Semiurban,Private,51,52230,863820,2,Personal,Approved
+LN2098,Female,No,1,Not Graduate,No,200734,9715,51300,300,1,Semiurban,Private,52,39037,435944,2,Home,Approved
+LN2099,Male,No,2,Graduate,Yes,257702,19169,100200,360,1,Semiurban,Business,56,47052,857461,0,Education,Approved
+LN2100,Male,Yes,2,Not Graduate,Yes,329834,118413,26200,240,1,Urban,Government,42,23340,658269,2,Home,Approved
+LN2101,Female,No,1,Graduate,Yes,277235,147235,36900,360,1,Urban,Government,52,60644,365783,0,Vehicle,Approved
+LN2102,Female,No,3,Not Graduate,Yes,198511,119264,73100,180,1,Rural,Government,40,68664,164010,1,Home,Rejected
+LN2103,Female,No,0,Graduate,No,373797,5782,100500,240,1,Semiurban,Government,52,65203,982149,1,Personal,Rejected
+LN2104,Female,Yes,1,Not Graduate,No,259033,124481,30400,300,1,Rural,Private,53,21141,605393,2,Education,Approved
+LN2105,Female,Yes,3,Graduate,No,181941,35585,68100,240,1,Urban,Private,23,45425,573472,1,Personal,Approved
+LN2106,Female,Yes,0,Not Graduate,Yes,305209,30682,94000,360,0,Urban,Business,31,77710,456884,2,Education,Approved
+LN2107,Female,No,1,Graduate,Yes,395806,178936,69500,120,1,Rural,Government,23,39281,309021,2,Vehicle,Approved
+LN2108,Female,No,1,Not Graduate,Yes,198818,129992,34900,240,1,Semiurban,Private,23,62049,197032,1,Education,Rejected
+LN2109,Male,No,2,Graduate,No,252360,84416,97400,300,1,Semiurban,Private,45,40425,700807,1,Home,Approved
+LN2110,Female,Yes,0,Graduate,No,353627,186186,29500,180,1,Semiurban,Business,38,54806,192429,2,Home,Approved
+LN2111,Male,No,0,Not Graduate,Yes,195081,127810,78900,120,1,Semiurban,Business,53,52113,507820,1,Vehicle,Rejected
+LN2112,Female,No,3,Not Graduate,No,136877,38067,119300,180,0,Rural,Business,37,24270,939171,0,Education,Rejected
+LN2113,Female,No,2,Graduate,Yes,473706,173757,73800,240,1,Rural,Private,37,62814,363940,1,Vehicle,Approved
+LN2114,Male,No,2,Not Graduate,Yes,311957,18073,77100,360,0,Urban,Private,52,24683,327948,1,Home,Approved
+LN2115,Female,Yes,2,Graduate,No,172715,36035,104300,360,1,Semiurban,Business,45,69646,702020,0,Personal,Approved
+LN2116,Male,Yes,2,Graduate,Yes,241398,196049,29800,300,1,Semiurban,Government,22,59884,719986,1,Vehicle,Approved
+LN2117,Female,No,0,Graduate,No,210091,90373,59100,360,1,Semiurban,Business,32,49809,209204,1,Personal,Rejected
+LN2118,Female,Yes,0,Not Graduate,Yes,232632,83362,99500,120,1,Rural,Business,42,54552,844383,2,Personal,Rejected
+LN2119,Male,Yes,1,Graduate,No,441292,90517,24100,360,1,Semiurban,Business,25,72662,973953,1,Education,Rejected
+LN2120,Female,No,1,Graduate,No,183186,65450,26400,300,1,Rural,Business,28,23786,331209,1,Vehicle,Approved
+LN2121,Male,No,2,Not Graduate,No,262962,10382,41300,240,0,Semiurban,Private,47,41650,937935,0,Personal,Rejected
+LN2122,Female,Yes,2,Not Graduate,Yes,251094,135509,12000,240,1,Semiurban,Government,33,48706,155072,2,Personal,Approved
+LN2123,Male,No,2,Not Graduate,Yes,485773,195684,108300,360,1,Urban,Business,52,29190,714490,2,Education,Approved
+LN2124,Male,Yes,1,Not Graduate,No,170316,61929,40400,180,1,Semiurban,Government,38,58196,139360,2,Education,Approved
+LN2125,Female,No,3,Graduate,No,128380,98864,47000,240,1,Semiurban,Government,54,59449,112287,1,Home,Approved
+LN2126,Female,Yes,3,Graduate,Yes,210198,143401,95200,360,1,Urban,Government,32,59661,288009,2,Personal,Rejected
+LN2127,Male,No,1,Graduate,Yes,364500,25169,48300,300,1,Rural,Business,49,49709,757062,0,Home,Approved
+LN2128,Female,Yes,1,Graduate,Yes,170326,87468,54400,360,0,Rural,Private,53,65429,742353,2,Personal,Approved
+LN2129,Female,Yes,1,Not Graduate,No,454591,34594,52400,240,1,Semiurban,Business,22,34892,737235,0,Home,Approved
+LN2130,Female,Yes,1,Graduate,Yes,214994,191703,26000,300,1,Rural,Government,49,29643,820644,2,Education,Approved
+LN2131,Male,No,1,Graduate,Yes,320971,45033,72800,360,1,Semiurban,Government,28,29943,711414,2,Vehicle,Approved
+LN2132,Male,Yes,1,Not Graduate,No,382193,63133,99400,120,1,Urban,Private,23,63240,280881,0,Education,Approved
+LN2133,Male,Yes,2,Graduate,Yes,467505,73861,58900,300,0,Urban,Business,45,65760,157357,2,Home,Rejected
+LN2134,Male,No,2,Graduate,Yes,378226,183362,111600,120,1,Semiurban,Government,25,41042,491733,2,Home,Approved
+LN2135,Male,No,2,Graduate,Yes,362805,31750,42600,180,1,Urban,Private,40,76234,257440,2,Vehicle,Approved
+LN2136,Male,Yes,2,Graduate,No,268484,40461,69700,300,0,Urban,Government,47,63894,603958,1,Personal,Approved
+LN2137,Male,Yes,1,Graduate,No,365064,78222,111400,120,1,Semiurban,Private,32,26869,885544,0,Home,Rejected
+LN2138,Male,No,3,Graduate,No,345378,112020,38800,240,1,Semiurban,Private,32,76759,924820,2,Home,Approved
+LN2139,Male,No,0,Not Graduate,No,441705,24226,69200,240,1,Urban,Business,24,60437,401300,0,Home,Approved
+LN2140,Female,No,1,Not Graduate,No,371090,6721,67200,180,1,Rural,Government,33,64306,209379,0,Vehicle,Approved
+LN2141,Male,No,0,Graduate,No,325314,187226,12700,300,1,Rural,Business,24,62833,818447,0,Education,Approved
+LN2142,Female,No,3,Graduate,No,335612,20609,105300,300,1,Semiurban,Government,48,75371,248159,2,Home,Approved
+LN2143,Female,Yes,2,Not Graduate,Yes,378453,183202,14200,300,1,Semiurban,Business,23,40918,884354,2,Vehicle,Approved
+LN2144,Female,No,3,Graduate,Yes,155230,130513,52200,180,1,Rural,Government,37,48379,244152,0,Home,Approved
+LN2145,Male,Yes,1,Graduate,No,473966,104211,27600,300,1,Urban,Business,23,75131,929780,1,Personal,Approved
+LN2146,Male,Yes,2,Graduate,Yes,474484,186321,62800,240,1,Rural,Private,51,62939,653623,0,Vehicle,Approved
+LN2147,Male,Yes,1,Not Graduate,Yes,159321,179967,106500,120,1,Rural,Government,41,45274,862744,1,Home,Approved
+LN2148,Male,No,2,Graduate,No,232028,136728,29700,240,0,Rural,Government,59,37696,116985,0,Vehicle,Approved
+LN2149,Female,Yes,0,Not Graduate,Yes,331447,124865,70900,240,1,Rural,Private,49,22962,705032,0,Home,Approved
+LN2150,Male,Yes,0,Graduate,Yes,436275,74520,94100,120,1,Semiurban,Business,46,33851,826001,0,Education,Approved
+LN2151,Male,No,0,Not Graduate,Yes,388107,194812,95200,240,1,Semiurban,Government,53,72090,533178,2,Home,Approved
+LN2152,Male,Yes,3,Not Graduate,Yes,201757,64309,12100,180,1,Urban,Government,31,65747,937395,1,Vehicle,Approved
+LN2153,Male,Yes,1,Graduate,Yes,461403,29984,118000,120,1,Urban,Business,54,79644,221349,1,Personal,Rejected
+LN2154,Male,No,3,Not Graduate,No,401207,118947,118900,240,1,Urban,Private,34,72349,605839,0,Personal,Rejected
+LN2155,Female,Yes,0,Graduate,No,476369,5901,94100,360,0,Urban,Business,58,25296,664101,2,Personal,Approved
+LN2156,Male,Yes,1,Not Graduate,No,478544,162624,19700,240,1,Rural,Business,37,76356,499813,2,Home,Approved
+LN2157,Female,Yes,0,Graduate,Yes,442962,31055,53400,180,1,Semiurban,Business,43,34745,937457,1,Education,Approved
+LN2158,Male,No,3,Graduate,No,366847,168757,73600,300,1,Semiurban,Government,41,25730,436486,2,Home,Rejected
+LN2159,Female,No,3,Not Graduate,Yes,296200,145788,68700,240,0,Urban,Private,48,33921,750572,1,Personal,Approved
+LN2160,Male,No,3,Graduate,Yes,172099,114099,44300,300,1,Urban,Private,37,52894,59637,1,Vehicle,Approved
+LN2161,Male,Yes,0,Graduate,Yes,262932,11138,67000,360,1,Rural,Business,55,25602,879690,1,Personal,Rejected
+LN2162,Female,Yes,1,Not Graduate,Yes,131585,166370,71000,240,1,Rural,Government,53,37575,977328,2,Vehicle,Approved
+LN2163,Female,No,1,Graduate,No,143585,182184,34200,120,1,Urban,Business,47,39023,703841,1,Education,Rejected
+LN2164,Female,Yes,0,Graduate,No,389102,23429,66000,300,1,Semiurban,Government,46,65349,601238,1,Vehicle,Approved
+LN2165,Male,Yes,1,Not Graduate,Yes,388161,50200,105900,360,1,Semiurban,Government,23,35997,466704,0,Home,Approved
+LN2166,Female,No,0,Not Graduate,No,486821,179316,13100,120,1,Semiurban,Government,33,37750,702158,1,Home,Rejected
+LN2167,Male,No,1,Graduate,Yes,391570,101268,49000,120,1,Urban,Government,30,61979,547760,1,Home,Approved
+LN2168,Male,Yes,2,Graduate,No,379922,17347,37600,120,0,Semiurban,Private,33,42837,50215,0,Vehicle,Approved
+LN2169,Female,Yes,2,Not Graduate,No,276313,147992,63100,120,1,Rural,Government,47,34997,417747,0,Home,Approved
+LN2170,Female,Yes,3,Not Graduate,Yes,142229,31822,48200,240,1,Rural,Government,30,59439,847955,2,Home,Rejected
+LN2171,Male,No,2,Graduate,No,186652,177731,119100,240,1,Urban,Business,31,43067,905121,1,Home,Approved
+LN2172,Male,No,2,Not Graduate,Yes,490411,40108,98300,240,1,Rural,Business,53,65039,73834,2,Education,Approved
+LN2173,Female,No,2,Graduate,No,349474,128955,31300,360,1,Urban,Private,55,40923,346618,2,Vehicle,Approved
+LN2174,Female,No,0,Graduate,Yes,279436,7967,47500,360,1,Semiurban,Business,41,28876,617354,0,Vehicle,Approved
+LN2175,Female,Yes,2,Graduate,Yes,488647,110719,84300,360,1,Semiurban,Government,23,22887,322544,2,Personal,Approved
+LN2176,Male,No,2,Graduate,No,360116,11871,31200,180,1,Semiurban,Business,22,62422,961643,1,Vehicle,Approved
+LN2177,Male,No,3,Graduate,No,447022,164685,17800,360,0,Rural,Private,57,56854,584633,0,Education,Approved
+LN2178,Male,No,2,Not Graduate,Yes,419200,28179,72700,240,1,Urban,Business,45,71413,83896,1,Vehicle,Rejected
+LN2179,Male,No,2,Not Graduate,No,119975,183260,70300,240,0,Semiurban,Business,48,56948,528646,1,Education,Approved
+LN2180,Male,No,1,Not Graduate,No,257795,55099,88100,180,0,Urban,Private,23,22841,865331,0,Education,Approved
+LN2181,Male,Yes,3,Not Graduate,Yes,309373,35262,110000,180,1,Semiurban,Private,52,79111,549387,1,Vehicle,Rejected
+LN2182,Female,Yes,3,Graduate,Yes,297133,78213,77900,360,1,Rural,Government,35,48756,864661,0,Personal,Approved
+LN2183,Male,No,3,Graduate,No,450541,117407,15700,300,0,Rural,Business,23,26040,560269,1,Home,Rejected
+LN2184,Male,Yes,3,Graduate,Yes,280225,149340,114900,180,0,Urban,Government,50,72712,317727,0,Home,Approved
+LN2185,Male,No,3,Graduate,Yes,395286,86269,98000,120,0,Rural,Business,36,30304,972401,2,Vehicle,Approved
+LN2186,Female,No,3,Not Graduate,Yes,389060,60545,54600,240,1,Rural,Business,33,50341,563622,1,Vehicle,Approved
+LN2187,Male,Yes,0,Graduate,No,164324,39922,16500,120,1,Urban,Government,58,24758,121537,0,Education,Approved
+LN2188,Male,Yes,2,Graduate,No,276037,42913,116700,240,1,Semiurban,Business,49,37010,814777,1,Vehicle,Approved
+LN2189,Female,No,3,Not Graduate,Yes,488076,97033,111100,240,0,Rural,Business,41,51658,447783,1,Education,Approved
+LN2190,Male,No,2,Not Graduate,No,235720,104792,32600,180,1,Urban,Business,45,69002,649095,1,Personal,Rejected
+LN2191,Male,No,2,Not Graduate,Yes,266205,186749,87300,180,1,Rural,Private,42,57782,703936,0,Vehicle,Approved
+LN2192,Male,Yes,0,Not Graduate,No,196059,180913,77800,120,1,Rural,Government,31,21375,949084,2,Home,Approved
+LN2193,Male,No,3,Graduate,Yes,198317,177404,70000,240,1,Rural,Private,35,53949,520455,2,Home,Approved
+LN2194,Male,No,1,Graduate,Yes,301207,119863,47800,120,1,Rural,Government,58,42092,718689,2,Vehicle,Rejected
+LN2195,Female,No,0,Not Graduate,No,397190,156104,80800,300,1,Urban,Government,39,20490,282117,0,Education,Approved
+LN2196,Female,Yes,1,Graduate,Yes,201459,168918,40600,120,1,Urban,Business,45,23729,823068,2,Home,Approved
+LN2197,Female,No,2,Graduate,No,337697,190546,87800,360,1,Urban,Government,35,25974,383936,0,Education,Approved
+LN2198,Male,No,2,Graduate,No,300422,44936,60300,120,1,Rural,Private,55,72686,443444,1,Vehicle,Approved
+LN2199,Male,Yes,0,Not Graduate,Yes,408037,160866,36700,360,0,Rural,Private,33,39680,263286,1,Vehicle,Approved
+LN2200,Male,No,0,Graduate,Yes,201520,192660,10700,360,1,Rural,Private,43,38324,611340,2,Home,Rejected
+LN2201,Female,No,1,Not Graduate,No,487962,181403,60700,360,0,Urban,Government,27,51334,500985,0,Vehicle,Approved
+LN2202,Male,Yes,3,Graduate,Yes,161272,28141,57500,300,1,Rural,Private,57,41398,96032,1,Personal,Rejected
+LN2203,Male,No,1,Graduate,Yes,323224,140146,26300,120,1,Semiurban,Government,57,54650,554910,0,Personal,Approved
+LN2204,Female,Yes,0,Graduate,Yes,429793,137478,58400,120,1,Rural,Private,43,41292,345830,0,Home,Approved
+LN2205,Male,Yes,1,Not Graduate,Yes,426818,97359,119500,300,0,Semiurban,Private,35,55755,913413,1,Personal,Rejected
+LN2206,Female,No,0,Graduate,Yes,244832,123279,66600,240,1,Rural,Government,37,58353,673090,0,Education,Approved
+LN2207,Female,No,1,Not Graduate,No,252999,154363,100400,180,1,Urban,Private,57,23159,970313,1,Home,Rejected
+LN2208,Female,No,0,Not Graduate,No,448619,41568,65800,120,1,Rural,Business,46,52626,284337,1,Home,Approved
+LN2209,Male,No,0,Not Graduate,Yes,161367,97539,33700,180,1,Semiurban,Government,53,49351,222857,1,Education,Rejected
+LN2210,Male,Yes,0,Graduate,Yes,329027,46851,65300,300,1,Semiurban,Government,54,57298,479763,0,Personal,Approved
+LN2211,Male,No,3,Graduate,Yes,483894,54823,92700,240,1,Rural,Government,57,37065,354962,1,Personal,Approved
+LN2212,Male,Yes,1,Graduate,No,332750,23312,56700,240,1,Semiurban,Business,41,41638,936854,0,Personal,Approved
+LN2213,Male,No,1,Graduate,Yes,335806,174180,48500,240,1,Semiurban,Government,39,21073,384071,1,Home,Approved
+LN2214,Male,No,1,Not Graduate,No,480298,197990,87400,300,0,Urban,Private,59,66511,771041,1,Home,Approved
+LN2215,Male,No,0,Not Graduate,No,283305,165243,94700,360,1,Rural,Private,24,38771,391609,2,Personal,Approved
+LN2216,Female,Yes,1,Not Graduate,No,144738,172851,48600,360,1,Rural,Private,44,79738,795222,2,Vehicle,Approved
+LN2217,Male,No,1,Graduate,Yes,133397,199900,97600,180,1,Rural,Government,53,55461,800887,2,Personal,Approved
+LN2218,Female,No,0,Not Graduate,No,444333,98723,35800,360,1,Semiurban,Private,37,62330,687509,0,Education,Rejected
+LN2219,Male,No,2,Graduate,Yes,438511,12411,38200,360,1,Rural,Government,26,49320,349477,0,Home,Approved
+LN2220,Male,No,0,Not Graduate,No,302332,57009,13900,240,1,Rural,Private,25,24340,176457,1,Education,Approved
+LN2221,Male,Yes,1,Graduate,Yes,482729,146494,58500,240,1,Urban,Business,42,54924,328720,1,Education,Approved
+LN2222,Female,No,0,Graduate,No,438763,173540,102800,180,1,Urban,Business,35,36184,169875,1,Home,Approved
+LN2223,Female,Yes,2,Not Graduate,Yes,211453,32371,31900,120,1,Urban,Business,52,60734,875837,1,Vehicle,Approved
+LN2224,Female,Yes,0,Not Graduate,No,119816,57022,111400,180,1,Semiurban,Business,35,22580,930432,0,Personal,Approved
+LN2225,Female,Yes,1,Not Graduate,Yes,499492,71229,112300,180,1,Rural,Government,27,60025,516995,1,Education,Rejected
+LN2226,Male,Yes,2,Not Graduate,Yes,345011,99071,71200,300,0,Urban,Private,33,48967,605889,1,Home,Rejected
+LN2227,Female,Yes,3,Graduate,Yes,441674,182268,102700,300,1,Urban,Business,37,22159,904378,2,Education,Approved
+LN2228,Male,Yes,1,Not Graduate,Yes,471000,96774,78700,180,1,Urban,Government,38,68940,364260,1,Personal,Approved
+LN2229,Male,No,2,Not Graduate,No,313567,26715,71200,180,1,Rural,Business,44,33900,567965,1,Vehicle,Approved
+LN2230,Female,Yes,2,Not Graduate,No,171635,27605,35900,180,1,Rural,Business,35,31440,560472,1,Vehicle,Approved
+LN2231,Female,Yes,3,Graduate,Yes,469947,99853,108900,360,1,Rural,Government,28,34678,678474,0,Vehicle,Approved
+LN2232,Female,Yes,0,Graduate,No,316184,31174,106500,300,1,Semiurban,Government,53,67204,899326,2,Home,Approved
+LN2233,Female,No,0,Not Graduate,Yes,398090,141028,46500,180,1,Semiurban,Private,36,32021,739995,1,Home,Approved
+LN2234,Female,No,1,Graduate,Yes,417348,76373,64300,240,1,Urban,Private,38,26772,843897,1,Vehicle,Approved
+LN2235,Female,Yes,3,Not Graduate,No,282958,69252,74800,240,0,Rural,Business,55,21627,631042,2,Personal,Approved
+LN2236,Female,No,0,Graduate,Yes,377707,193021,91300,360,1,Urban,Business,26,64432,279047,1,Personal,Rejected
+LN2237,Female,Yes,3,Graduate,Yes,192324,193718,113900,360,1,Rural,Private,48,28219,142850,0,Home,Approved
+LN2238,Male,Yes,0,Graduate,No,323536,70017,67400,120,1,Rural,Private,44,43464,946197,1,Vehicle,Rejected
+LN2239,Female,No,2,Graduate,Yes,332944,63037,111200,120,1,Rural,Government,35,71137,790479,0,Personal,Rejected
+LN2240,Female,Yes,0,Not Graduate,Yes,371991,89818,76900,120,1,Semiurban,Private,36,50232,404835,0,Personal,Approved
+LN2241,Male,No,3,Not Graduate,Yes,126155,6548,36800,360,1,Semiurban,Private,54,62481,613159,1,Personal,Approved
+LN2242,Female,No,2,Not Graduate,Yes,441815,116981,102300,360,1,Rural,Business,52,28488,243946,2,Home,Approved
+LN2243,Male,Yes,2,Graduate,No,216891,154249,34600,360,1,Urban,Private,56,54949,520949,0,Vehicle,Rejected
+LN2244,Male,Yes,2,Not Graduate,No,445454,24022,23000,240,1,Rural,Business,38,64362,865943,2,Education,Rejected
+LN2245,Female,No,3,Not Graduate,No,249381,106297,45200,360,0,Rural,Private,49,71448,917392,1,Vehicle,Approved
+LN2246,Male,Yes,1,Not Graduate,Yes,231691,136614,29500,240,1,Urban,Government,40,59932,902208,0,Vehicle,Approved
+LN2247,Male,Yes,1,Graduate,Yes,134707,60428,102900,120,1,Rural,Private,44,38981,299200,1,Home,Rejected
+LN2248,Male,Yes,1,Graduate,No,443681,153812,112100,120,0,Urban,Private,53,20901,775527,2,Personal,Approved
+LN2249,Male,No,3,Graduate,Yes,297576,59353,74400,120,1,Semiurban,Private,34,42444,356606,1,Personal,Rejected
+LN2250,Female,No,2,Not Graduate,Yes,278686,113132,32600,180,1,Semiurban,Business,41,62058,504598,1,Home,Rejected
+LN2251,Male,Yes,1,Not Graduate,Yes,322500,187604,80000,180,1,Urban,Government,56,38061,533410,0,Home,Approved
+LN2252,Female,No,3,Not Graduate,Yes,453299,16052,36400,300,1,Semiurban,Private,26,22881,808741,1,Home,Approved
+LN2253,Male,No,1,Graduate,No,362425,100689,74500,300,1,Semiurban,Business,30,49863,606862,1,Home,Approved
+LN2254,Male,No,0,Graduate,No,258492,178148,31000,300,0,Urban,Government,50,65826,676360,1,Home,Approved
+LN2255,Male,No,1,Not Graduate,No,270102,184492,104200,180,1,Semiurban,Business,27,25622,485126,0,Education,Approved
+LN2256,Male,No,1,Graduate,Yes,494274,131743,55600,180,1,Rural,Business,46,77204,254603,2,Vehicle,Rejected
+LN2257,Female,Yes,2,Graduate,No,317285,163,82400,300,1,Rural,Government,52,21378,730546,2,Vehicle,Rejected
+LN2258,Female,Yes,3,Graduate,No,438404,41424,108100,300,1,Urban,Private,43,37632,728173,1,Vehicle,Rejected
+LN2259,Male,Yes,2,Graduate,Yes,259476,184816,68700,360,1,Semiurban,Business,23,48311,784172,0,Personal,Approved
+LN2260,Male,No,2,Not Graduate,Yes,334554,141706,57500,300,1,Rural,Business,26,25650,790885,1,Education,Rejected
+LN2261,Female,No,2,Graduate,No,260928,135870,108500,360,1,Rural,Private,48,65201,914714,2,Vehicle,Approved
+LN2262,Male,Yes,2,Graduate,No,240272,22420,25500,240,0,Semiurban,Private,46,75231,159779,0,Personal,Approved
+LN2263,Male,No,2,Graduate,No,426322,120575,28900,180,1,Semiurban,Government,29,62224,68557,2,Education,Approved
+LN2264,Male,Yes,1,Graduate,No,396141,29300,108000,300,1,Rural,Government,22,79251,209132,2,Education,Approved
+LN2265,Female,Yes,2,Not Graduate,Yes,219273,89881,64500,180,0,Rural,Government,41,27036,502082,0,Personal,Rejected
+LN2266,Female,Yes,2,Not Graduate,No,272307,10749,14000,180,1,Urban,Private,44,59255,384248,0,Education,Approved
+LN2267,Female,No,3,Graduate,No,348500,104131,40600,180,1,Urban,Business,53,70210,806265,1,Personal,Approved
+LN2268,Male,No,0,Graduate,Yes,266129,156193,104200,240,1,Rural,Business,32,71200,527793,1,Vehicle,Approved
+LN2269,Male,Yes,1,Graduate,No,232311,128563,43700,120,1,Urban,Government,45,42499,711440,2,Personal,Approved
+LN2270,Female,Yes,1,Graduate,Yes,334746,37487,119800,300,1,Rural,Private,32,57016,194926,0,Education,Approved
+LN2271,Female,Yes,1,Graduate,Yes,345546,164433,105200,120,1,Rural,Business,50,71628,958445,0,Vehicle,Approved
+LN2272,Female,Yes,2,Graduate,Yes,296733,21223,37800,120,1,Urban,Government,47,24603,773055,1,Vehicle,Approved
+LN2273,Female,No,2,Not Graduate,No,226945,72930,99500,120,0,Urban,Business,37,47773,732385,2,Home,Approved
+LN2274,Male,No,2,Graduate,No,145272,145128,37200,180,1,Semiurban,Business,56,39937,234054,2,Home,Rejected
+LN2275,Female,Yes,3,Not Graduate,Yes,451537,28380,93600,360,1,Semiurban,Private,41,32632,615369,1,Education,Approved
+LN2276,Male,Yes,0,Not Graduate,No,423356,26035,71900,180,1,Semiurban,Private,24,50607,971872,0,Personal,Approved
+LN2277,Female,No,2,Graduate,No,246470,30620,96100,180,1,Rural,Business,22,46337,804981,1,Personal,Approved
+LN2278,Male,No,0,Not Graduate,Yes,220030,150949,103000,120,1,Urban,Government,22,20220,431325,1,Education,Approved
+LN2279,Female,Yes,3,Not Graduate,Yes,418647,186388,38800,180,1,Rural,Private,38,66994,863526,1,Vehicle,Approved
+LN2280,Female,Yes,1,Not Graduate,No,499854,195113,82300,120,0,Urban,Business,23,24818,378910,1,Education,Approved
+LN2281,Female,Yes,2,Not Graduate,Yes,106570,117360,99200,360,1,Rural,Private,50,76344,919485,0,Education,Rejected
+LN2282,Female,No,0,Not Graduate,No,430929,53352,37100,300,1,Semiurban,Private,41,73775,205063,1,Vehicle,Approved
+LN2283,Male,No,0,Not Graduate,No,109110,161983,118900,120,1,Semiurban,Private,27,27349,837733,0,Personal,Rejected
+LN2284,Female,No,2,Graduate,No,179141,163856,58200,360,0,Semiurban,Business,29,25618,733970,1,Education,Rejected
+LN2285,Male,Yes,1,Not Graduate,No,112115,3191,103500,300,1,Rural,Government,50,47464,655751,2,Personal,Approved
+LN2286,Male,Yes,1,Not Graduate,Yes,139062,164232,34700,240,1,Urban,Government,54,62624,740038,0,Education,Approved
+LN2287,Male,No,1,Not Graduate,Yes,385055,90536,25500,120,1,Urban,Government,24,76361,336610,2,Vehicle,Approved
+LN2288,Male,No,3,Graduate,Yes,204061,104576,117000,120,0,Semiurban,Private,56,57344,523656,1,Vehicle,Rejected
+LN2289,Female,Yes,0,Not Graduate,Yes,394700,195713,55300,240,1,Semiurban,Business,26,38255,76081,1,Home,Rejected
+LN2290,Male,No,0,Graduate,No,490479,180795,30000,240,1,Semiurban,Private,48,44299,74354,1,Vehicle,Approved
+LN2291,Male,No,0,Not Graduate,No,101969,3631,22300,120,1,Semiurban,Government,33,67975,667585,0,Home,Rejected
+LN2292,Male,Yes,3,Graduate,Yes,405897,137244,10000,240,1,Urban,Government,41,21462,854732,2,Education,Approved
+LN2293,Female,No,0,Graduate,No,497686,42080,106700,180,1,Rural,Business,41,74673,114384,0,Personal,Rejected
+LN2294,Female,Yes,3,Not Graduate,No,221863,90353,95400,300,1,Rural,Private,30,35905,931459,0,Vehicle,Rejected
+LN2295,Female,Yes,1,Not Graduate,No,372369,151353,73900,300,1,Rural,Government,25,44920,695972,1,Vehicle,Approved
+LN2296,Female,Yes,2,Graduate,Yes,223008,28671,29000,300,1,Rural,Business,40,36252,897324,2,Vehicle,Approved
+LN2297,Male,Yes,0,Not Graduate,Yes,254268,122811,61500,180,1,Semiurban,Private,59,61004,85525,1,Education,Approved
+LN2298,Male,Yes,0,Graduate,Yes,205823,182503,54100,240,1,Semiurban,Private,48,60581,994036,0,Home,Approved
+LN2299,Female,Yes,1,Graduate,No,375813,127734,24200,360,0,Semiurban,Government,34,54836,56464,1,Education,Rejected
+LN2300,Male,Yes,2,Graduate,Yes,486542,159674,63200,240,1,Rural,Government,34,25753,590850,2,Personal,Approved
+LN2301,Male,No,3,Graduate,Yes,210677,51399,32600,120,0,Semiurban,Private,43,60005,943824,1,Education,Approved
+LN2302,Male,Yes,2,Graduate,Yes,346958,154544,104800,300,1,Semiurban,Private,49,34175,629802,2,Personal,Approved
+LN2303,Female,Yes,1,Not Graduate,Yes,148320,180302,55900,240,1,Urban,Government,43,76168,425572,2,Vehicle,Rejected
+LN2304,Female,No,1,Graduate,Yes,246649,7099,65000,360,1,Urban,Private,40,26191,162564,1,Personal,Approved
+LN2305,Male,No,2,Graduate,Yes,225354,156503,49200,120,1,Semiurban,Government,29,37898,420191,0,Personal,Approved
+LN2306,Female,No,3,Not Graduate,No,188009,56492,94400,180,0,Urban,Private,29,38982,517435,1,Home,Approved
+LN2307,Female,Yes,3,Graduate,No,357437,96722,30900,180,1,Urban,Government,47,34622,606922,0,Personal,Rejected
+LN2308,Female,No,0,Not Graduate,Yes,128625,178756,74500,360,1,Semiurban,Business,47,21001,836492,0,Personal,Rejected
+LN2309,Female,Yes,3,Not Graduate,Yes,312112,30111,31800,120,1,Semiurban,Government,44,70185,845701,1,Education,Approved
+LN2310,Female,Yes,2,Not Graduate,No,386233,63936,50600,300,0,Semiurban,Government,34,67645,244215,0,Vehicle,Approved
+LN2311,Male,Yes,1,Graduate,No,136487,153686,98700,240,1,Semiurban,Business,49,63000,597353,0,Education,Approved
+LN2312,Female,Yes,0,Graduate,Yes,328071,173063,65700,120,1,Rural,Private,30,43283,315039,1,Education,Approved
+LN2313,Male,No,0,Graduate,Yes,472592,60920,64900,180,1,Rural,Business,41,77617,393003,1,Vehicle,Approved
+LN2314,Male,No,1,Not Graduate,Yes,412282,63530,24100,360,1,Semiurban,Government,40,41435,717712,1,Vehicle,Rejected
+LN2315,Female,Yes,3,Graduate,Yes,273895,167296,71100,360,1,Urban,Private,33,47223,154127,0,Personal,Approved
+LN2316,Male,Yes,1,Not Graduate,No,416205,7788,60000,240,1,Semiurban,Business,36,79123,146426,2,Personal,Rejected
+LN2317,Male,Yes,3,Graduate,Yes,201376,28082,93900,360,1,Semiurban,Private,52,57244,999520,0,Home,Approved
+LN2318,Male,No,1,Not Graduate,Yes,441278,123287,80100,360,1,Urban,Private,35,50024,242376,2,Education,Approved
+LN2319,Female,Yes,2,Graduate,Yes,409199,89570,69500,120,1,Rural,Business,32,69630,61962,1,Vehicle,Approved
+LN2320,Female,Yes,3,Graduate,Yes,343341,101015,38000,300,1,Semiurban,Private,47,50734,83302,2,Personal,Approved
+LN2321,Male,No,2,Graduate,No,381652,83588,52300,240,1,Semiurban,Business,48,20515,397526,1,Vehicle,Approved
+LN2322,Female,No,0,Not Graduate,No,258056,147603,95500,120,1,Rural,Government,32,65246,54011,1,Personal,Approved
+LN2323,Female,Yes,1,Not Graduate,No,210169,88340,36900,300,1,Rural,Private,59,21191,966148,2,Home,Approved
+LN2324,Female,No,0,Graduate,Yes,370269,94439,25300,120,1,Urban,Government,55,52264,69782,1,Home,Approved
+LN2325,Female,No,0,Graduate,Yes,136059,175929,71300,120,1,Rural,Government,40,63628,248763,2,Vehicle,Approved
+LN2326,Male,Yes,0,Not Graduate,No,203409,141214,76100,360,0,Rural,Private,27,66216,694942,1,Home,Rejected
+LN2327,Male,No,0,Not Graduate,Yes,105704,115053,18200,300,1,Rural,Business,59,26297,482941,0,Vehicle,Approved
+LN2328,Female,Yes,1,Not Graduate,Yes,304456,48355,104600,240,1,Urban,Private,49,78755,583484,0,Personal,Rejected
+LN2329,Female,No,0,Graduate,No,318200,140938,99800,240,1,Rural,Government,22,47856,93459,1,Education,Approved
+LN2330,Male,Yes,1,Not Graduate,No,211279,125426,38300,300,1,Rural,Government,56,69423,661533,1,Home,Rejected
+LN2331,Male,Yes,1,Graduate,No,258280,64027,107900,360,1,Urban,Business,29,28334,572829,2,Personal,Approved
+LN2332,Female,Yes,2,Not Graduate,No,218516,188978,27200,180,1,Rural,Private,28,44162,653151,0,Education,Rejected
+LN2333,Male,No,3,Graduate,Yes,297096,159210,118600,120,1,Rural,Government,32,26008,959638,2,Education,Approved
+LN2334,Female,Yes,3,Not Graduate,Yes,476188,92601,119600,360,1,Urban,Government,25,27987,824751,1,Education,Approved
+LN2335,Female,No,1,Not Graduate,No,332549,29956,86200,300,1,Semiurban,Government,46,50966,413154,1,Personal,Approved
+LN2336,Male,Yes,2,Not Graduate,Yes,129165,104797,73200,120,1,Urban,Business,33,23332,82769,2,Personal,Approved
+LN2337,Male,Yes,1,Not Graduate,No,167203,124917,88600,240,1,Rural,Government,47,20787,419673,1,Vehicle,Approved
+LN2338,Female,No,1,Not Graduate,No,366258,126303,104200,180,1,Rural,Government,59,58990,830721,0,Education,Approved
+LN2339,Female,Yes,1,Graduate,Yes,136321,136511,111100,240,1,Rural,Private,33,29873,74700,2,Education,Approved
+LN2340,Male,Yes,2,Not Graduate,No,435441,178313,49700,300,0,Urban,Private,58,37006,821152,0,Education,Rejected
+LN2341,Female,No,3,Not Graduate,Yes,458796,42533,103300,120,1,Rural,Government,45,40225,785716,0,Vehicle,Approved
+LN2342,Male,Yes,2,Not Graduate,Yes,461448,159342,77500,300,0,Rural,Government,37,56444,281237,0,Education,Approved
+LN2343,Female,Yes,0,Graduate,Yes,345014,78815,103500,120,1,Urban,Private,34,55340,841701,2,Personal,Approved
+LN2344,Male,Yes,2,Not Graduate,Yes,256498,39279,56400,360,0,Semiurban,Business,46,59683,958063,1,Education,Approved
+LN2345,Male,Yes,2,Graduate,No,117772,109787,38500,180,0,Semiurban,Business,25,25033,356024,0,Home,Approved
+LN2346,Male,No,2,Not Graduate,Yes,465898,154960,36400,360,1,Rural,Business,32,27788,164003,0,Personal,Approved
+LN2347,Female,No,2,Not Graduate,No,365856,148702,41900,360,1,Urban,Business,53,35689,189392,0,Vehicle,Rejected
+LN2348,Female,Yes,3,Graduate,No,494583,61063,77200,300,1,Rural,Business,28,64220,99589,1,Education,Rejected
+LN2349,Male,No,0,Not Graduate,No,338389,127896,91900,180,1,Urban,Business,32,41598,300606,1,Home,Rejected
+LN2350,Female,Yes,3,Graduate,No,215142,166216,18800,120,1,Urban,Business,49,57480,781636,2,Vehicle,Approved
+LN2351,Male,No,3,Graduate,Yes,191736,183233,92000,120,1,Semiurban,Business,44,49703,610185,1,Vehicle,Rejected
+LN2352,Male,Yes,2,Not Graduate,Yes,151924,182051,110000,240,1,Semiurban,Private,44,20066,239637,2,Personal,Approved
+LN2353,Female,Yes,1,Graduate,No,103726,97661,43300,120,1,Urban,Business,49,68623,736290,2,Vehicle,Approved
+LN2354,Female,Yes,1,Not Graduate,No,451296,138051,32100,300,1,Rural,Business,47,65246,762593,2,Vehicle,Approved
+LN2355,Male,Yes,3,Not Graduate,Yes,127723,157261,14000,360,1,Semiurban,Business,46,27533,263893,2,Vehicle,Approved
+LN2356,Female,Yes,3,Graduate,No,489113,173672,16700,360,1,Rural,Government,50,35103,850812,2,Vehicle,Approved
+LN2357,Female,Yes,2,Graduate,Yes,334182,190632,108700,360,1,Semiurban,Private,40,24616,782256,0,Education,Approved
+LN2358,Male,No,3,Graduate,No,462638,123257,61300,180,1,Semiurban,Private,54,66045,120934,1,Education,Approved
+LN2359,Male,Yes,2,Graduate,Yes,240180,192630,79400,120,1,Rural,Private,57,70292,630118,0,Education,Approved
+LN2360,Female,No,1,Not Graduate,No,308786,86205,113900,300,1,Semiurban,Business,35,79658,317673,2,Education,Approved
+LN2361,Male,Yes,1,Not Graduate,No,135643,6910,57600,180,1,Semiurban,Business,35,58498,826652,1,Home,Approved
+LN2362,Male,No,0,Graduate,Yes,262396,188785,118500,240,1,Rural,Government,56,63492,406742,0,Education,Approved
+LN2363,Female,No,1,Not Graduate,No,466040,46857,98000,300,1,Semiurban,Private,51,31772,807582,0,Vehicle,Approved
+LN2364,Male,No,3,Not Graduate,No,314432,34964,53100,300,1,Semiurban,Business,49,43849,132987,2,Education,Rejected
+LN2365,Male,Yes,1,Not Graduate,Yes,239999,156299,36700,300,1,Semiurban,Private,38,69036,623466,0,Education,Approved
+LN2366,Female,Yes,2,Not Graduate,No,455824,137050,115800,360,1,Rural,Government,24,78531,188009,0,Personal,Approved
+LN2367,Female,No,1,Graduate,Yes,458690,17153,87800,300,1,Urban,Government,37,73623,434096,0,Vehicle,Approved
+LN2368,Male,Yes,0,Graduate,Yes,179973,59765,59300,120,1,Rural,Government,51,32940,614174,0,Education,Approved
+LN2369,Male,No,1,Not Graduate,No,425593,108212,76000,300,1,Urban,Private,50,72491,623987,0,Education,Rejected
+LN2370,Female,Yes,2,Graduate,No,209834,39071,111200,360,1,Semiurban,Business,36,36932,650684,2,Education,Approved
+LN2371,Female,No,2,Graduate,No,336386,112990,115800,300,1,Urban,Business,46,49769,664966,2,Home,Approved
+LN2372,Female,No,3,Graduate,No,387681,69519,107600,240,0,Rural,Government,59,76827,599567,0,Education,Rejected
+LN2373,Female,Yes,1,Not Graduate,No,439720,9503,58100,240,1,Rural,Business,59,44648,481322,2,Personal,Approved
+LN2374,Male,No,2,Not Graduate,No,207522,191775,82700,360,1,Semiurban,Government,44,67411,160776,2,Vehicle,Approved
+LN2375,Female,Yes,0,Not Graduate,No,122612,195451,57900,120,1,Urban,Private,46,52966,675732,1,Vehicle,Approved
+LN2376,Female,No,3,Graduate,Yes,325049,95457,118800,120,1,Semiurban,Government,28,47777,418444,0,Education,Approved
+LN2377,Male,No,0,Not Graduate,No,368615,188938,113100,180,1,Semiurban,Private,43,79125,163793,2,Education,Approved
+LN2378,Female,Yes,1,Not Graduate,Yes,266703,147977,44200,360,1,Rural,Government,38,52567,428422,2,Education,Approved
+LN2379,Male,Yes,1,Graduate,No,340069,45838,43100,300,1,Urban,Business,39,69723,260809,0,Vehicle,Rejected
+LN2380,Female,Yes,1,Not Graduate,No,323131,125200,53700,360,0,Urban,Business,31,37174,221616,1,Vehicle,Approved
+LN2381,Female,No,3,Not Graduate,Yes,131348,189351,27300,180,1,Urban,Government,31,62598,415391,0,Home,Approved
+LN2382,Female,Yes,2,Graduate,No,295804,89489,65800,360,1,Urban,Business,28,79175,292262,1,Personal,Approved
+LN2383,Male,No,3,Graduate,No,363321,26806,62600,360,1,Semiurban,Business,59,79199,583285,0,Home,Rejected
+LN2384,Male,No,0,Graduate,Yes,235832,176072,75800,180,1,Semiurban,Business,48,33798,156102,0,Personal,Rejected
+LN2385,Female,Yes,3,Not Graduate,No,394923,153240,12500,120,1,Rural,Private,54,37558,922143,0,Home,Approved
+LN2386,Male,Yes,0,Not Graduate,No,383780,70119,91900,300,1,Semiurban,Business,22,64237,428189,0,Vehicle,Approved
+LN2387,Male,No,3,Not Graduate,No,181889,38714,70400,180,1,Semiurban,Private,55,20178,615148,1,Home,Approved
+LN2388,Male,No,2,Graduate,Yes,153551,185165,50500,240,1,Rural,Government,25,71396,315369,1,Personal,Approved
+LN2389,Male,Yes,0,Graduate,No,242635,55419,33100,120,1,Rural,Business,38,40470,684402,2,Education,Approved
+LN2390,Male,Yes,1,Not Graduate,No,146819,180217,63200,240,0,Rural,Business,25,37118,687506,0,Personal,Approved
+LN2391,Male,Yes,1,Not Graduate,No,435914,105432,60400,120,1,Semiurban,Business,47,42616,572070,1,Education,Approved
+LN2392,Female,Yes,3,Graduate,No,312781,92949,27800,300,1,Semiurban,Government,25,20798,937196,1,Vehicle,Rejected
+LN2393,Female,Yes,1,Graduate,Yes,258059,133533,23100,300,1,Rural,Private,22,27601,157041,1,Personal,Approved
+LN2394,Male,No,0,Graduate,Yes,440858,145363,44700,360,0,Rural,Private,28,45363,424368,0,Home,Rejected
+LN2395,Female,No,1,Graduate,No,289420,177876,63900,240,1,Rural,Business,51,22795,375800,2,Personal,Approved
+LN2396,Female,No,2,Not Graduate,No,124596,76971,87100,120,1,Semiurban,Government,30,51926,495096,1,Education,Approved
+LN2397,Female,No,2,Graduate,Yes,426250,93471,17500,300,0,Semiurban,Government,56,65264,766438,0,Vehicle,Approved
+LN2398,Female,Yes,3,Not Graduate,Yes,159182,64946,67800,180,1,Urban,Government,29,57356,531862,1,Home,Approved
+LN2399,Male,Yes,0,Not Graduate,No,449307,98989,95300,300,1,Semiurban,Government,45,27297,126290,1,Personal,Approved
+LN2400,Female,Yes,2,Not Graduate,Yes,401454,84080,29300,180,1,Semiurban,Government,40,23084,106633,2,Education,Approved
+LN2401,Female,No,2,Graduate,No,418232,192404,44600,120,1,Semiurban,Private,57,50329,863087,1,Home,Approved
+LN2402,Male,No,0,Graduate,Yes,228803,77794,105000,300,1,Rural,Private,48,31110,171118,1,Vehicle,Approved
+LN2403,Male,Yes,1,Graduate,Yes,239978,30841,31300,300,1,Semiurban,Private,53,20731,748961,0,Home,Rejected
+LN2404,Female,Yes,1,Graduate,Yes,399058,124447,67200,120,1,Rural,Business,35,21129,53114,0,Vehicle,Approved
+LN2405,Female,No,3,Not Graduate,Yes,472494,120029,87900,300,1,Urban,Government,39,48022,862934,2,Home,Approved
+LN2406,Female,No,1,Graduate,No,145379,179830,36100,180,0,Urban,Business,49,21605,99768,0,Personal,Approved
+LN2407,Female,Yes,0,Graduate,Yes,345900,76272,82900,300,1,Rural,Government,50,31970,360272,0,Education,Rejected
+LN2408,Female,Yes,2,Not Graduate,Yes,358517,37643,38200,240,1,Rural,Private,37,63705,463244,2,Personal,Approved
+LN2409,Female,No,1,Graduate,No,408557,181480,46100,360,1,Rural,Business,56,64130,133123,1,Personal,Approved
+LN2410,Male,Yes,3,Not Graduate,Yes,237084,43950,54000,180,1,Semiurban,Private,52,49265,682543,2,Vehicle,Approved
+LN2411,Female,Yes,1,Not Graduate,Yes,281187,187921,19200,240,1,Urban,Government,25,52330,216405,0,Vehicle,Approved
+LN2412,Female,Yes,0,Not Graduate,No,369295,100500,85200,120,0,Rural,Government,58,22933,53174,2,Vehicle,Rejected
+LN2413,Male,No,3,Not Graduate,Yes,157716,159116,96600,180,1,Semiurban,Government,38,35187,167769,1,Personal,Approved
+LN2414,Male,No,1,Not Graduate,No,455891,125588,24100,360,1,Urban,Private,47,45791,347542,2,Home,Approved
+LN2415,Male,No,3,Not Graduate,No,323725,15997,84800,360,1,Semiurban,Government,25,44900,479145,0,Home,Approved
+LN2416,Male,No,0,Not Graduate,No,267450,79751,75200,120,1,Urban,Private,51,25074,185393,0,Personal,Approved
+LN2417,Female,No,2,Not Graduate,No,273724,98605,80000,120,1,Semiurban,Business,51,66805,435693,2,Personal,Rejected
+LN2418,Female,No,0,Graduate,Yes,303502,154983,109700,180,1,Urban,Government,43,46426,801331,1,Education,Approved
+LN2419,Female,No,0,Graduate,No,244539,55533,14800,300,1,Urban,Government,32,59867,816868,2,Vehicle,Approved
+LN2420,Female,Yes,0,Graduate,Yes,221999,82566,98000,120,1,Semiurban,Government,23,70642,236493,1,Vehicle,Approved
+LN2421,Female,Yes,0,Graduate,Yes,214793,145643,65400,300,1,Rural,Business,33,20893,646923,1,Personal,Approved
+LN2422,Female,Yes,2,Not Graduate,Yes,470321,108255,50300,240,1,Urban,Government,51,54158,860192,2,Personal,Rejected
+LN2423,Male,Yes,2,Graduate,Yes,112289,189013,99100,360,1,Rural,Private,57,39773,978864,1,Home,Approved
+LN2424,Female,Yes,3,Not Graduate,Yes,276048,58005,96400,300,0,Semiurban,Private,39,24239,715673,0,Personal,Approved
+LN2425,Male,Yes,1,Graduate,Yes,274668,189784,70100,360,1,Rural,Government,47,40863,967106,2,Home,Rejected
+LN2426,Male,Yes,2,Graduate,Yes,331513,43541,44000,300,1,Rural,Government,28,71415,817166,1,Personal,Approved
+LN2427,Female,No,2,Graduate,Yes,357368,23387,80300,240,1,Rural,Business,22,23432,267070,0,Education,Approved
+LN2428,Male,No,1,Not Graduate,Yes,186365,93980,41700,120,1,Rural,Business,47,55139,449017,2,Education,Approved
+LN2429,Female,Yes,2,Graduate,Yes,330662,179980,71700,240,1,Rural,Business,44,73464,850562,0,Home,Rejected
+LN2430,Male,Yes,0,Not Graduate,No,476158,85457,48100,120,1,Urban,Government,47,21515,981775,0,Vehicle,Approved
+LN2431,Female,No,0,Not Graduate,No,275211,144129,33200,120,1,Urban,Business,27,51670,459291,0,Education,Approved
+LN2432,Male,Yes,1,Graduate,No,279785,64028,91600,360,1,Urban,Business,27,68674,545671,1,Home,Approved
+LN2433,Female,Yes,3,Graduate,Yes,172588,119246,65200,240,0,Semiurban,Private,29,59094,419359,2,Personal,Approved
+LN2434,Female,No,3,Graduate,No,163646,55731,95500,300,1,Rural,Business,45,34605,200056,2,Personal,Approved
+LN2435,Female,Yes,1,Not Graduate,No,365798,155930,91800,240,1,Urban,Private,43,76240,924527,1,Home,Approved
+LN2436,Female,No,1,Graduate,No,380887,179761,28200,360,1,Semiurban,Private,40,25586,897374,2,Vehicle,Approved
+LN2437,Female,Yes,0,Not Graduate,Yes,410512,44638,116400,120,1,Urban,Business,58,55685,193933,0,Home,Approved
+LN2438,Male,No,3,Not Graduate,Yes,321097,177558,49600,360,1,Urban,Private,39,74883,148970,2,Home,Approved
+LN2439,Male,No,2,Graduate,Yes,305244,20567,87800,180,1,Rural,Government,52,76838,132203,1,Education,Rejected
+LN2440,Male,No,0,Graduate,Yes,499657,160811,100600,180,1,Semiurban,Government,58,68669,242319,0,Home,Rejected
+LN2441,Female,Yes,1,Not Graduate,No,219735,57804,22600,300,1,Rural,Business,51,51186,250173,1,Home,Approved
+LN2442,Male,No,3,Not Graduate,No,255683,108821,10000,360,1,Rural,Government,54,46928,551946,0,Personal,Approved
+LN2443,Female,Yes,2,Not Graduate,No,482035,3754,11800,300,1,Urban,Private,31,52728,726337,0,Education,Approved
+LN2444,Female,Yes,2,Graduate,No,207971,27044,68300,300,1,Rural,Government,58,37551,493833,2,Personal,Approved
+LN2445,Male,Yes,0,Not Graduate,Yes,112149,67260,55500,180,1,Semiurban,Business,33,77454,267726,0,Personal,Rejected
+LN2446,Male,Yes,3,Graduate,Yes,462246,66912,105600,300,1,Rural,Business,51,41493,924609,1,Vehicle,Approved
+LN2447,Female,No,3,Not Graduate,Yes,421333,8706,54400,180,1,Rural,Private,48,40711,647190,2,Vehicle,Approved
+LN2448,Male,No,1,Not Graduate,No,338976,8894,70100,120,1,Rural,Business,30,74962,142172,1,Education,Rejected
+LN2449,Female,Yes,3,Graduate,Yes,433175,149109,20200,360,1,Urban,Government,42,40039,720990,0,Education,Approved
+LN2450,Female,Yes,3,Not Graduate,Yes,142668,83986,108700,300,1,Semiurban,Business,33,56561,594344,1,Vehicle,Approved
+LN2451,Female,No,0,Graduate,No,188204,81942,61900,180,0,Urban,Private,50,29947,188454,1,Vehicle,Approved
+LN2452,Female,Yes,3,Graduate,No,311830,182684,95800,240,1,Urban,Business,54,52335,105739,0,Vehicle,Approved
+LN2453,Female,No,2,Not Graduate,Yes,296501,29725,27300,300,1,Urban,Government,36,35859,918117,2,Vehicle,Approved
+LN2454,Male,Yes,0,Graduate,Yes,265140,136998,110400,120,0,Urban,Private,23,43122,98639,1,Vehicle,Rejected
+LN2455,Male,Yes,0,Graduate,Yes,319861,104555,53000,120,1,Urban,Government,39,21577,503054,0,Personal,Rejected
+LN2456,Female,No,1,Not Graduate,Yes,240507,9496,82600,240,1,Semiurban,Private,24,62256,489257,2,Education,Approved
+LN2457,Female,Yes,3,Graduate,Yes,325160,56447,94900,180,1,Rural,Business,28,48350,837424,2,Personal,Rejected
+LN2458,Male,No,1,Graduate,Yes,283321,101604,108900,300,1,Urban,Private,39,71372,646682,2,Personal,Approved
+LN2459,Male,Yes,2,Graduate,No,137384,160878,73800,180,1,Urban,Private,59,61932,379801,1,Home,Rejected
+LN2460,Female,Yes,0,Not Graduate,No,181929,88199,51900,120,1,Semiurban,Business,58,53798,863592,1,Personal,Approved
+LN2461,Male,Yes,0,Graduate,No,490103,41321,69300,180,1,Semiurban,Government,54,51898,881588,1,Vehicle,Rejected
+LN2462,Female,No,0,Not Graduate,Yes,176153,196167,58400,120,1,Rural,Business,52,35881,232447,2,Vehicle,Rejected
+LN2463,Male,Yes,2,Not Graduate,No,335128,153728,51100,180,1,Semiurban,Private,32,30785,398586,1,Home,Approved
+LN2464,Female,Yes,2,Graduate,Yes,175388,55147,103500,240,1,Rural,Business,25,26691,724932,0,Home,Rejected
+LN2465,Male,Yes,1,Graduate,Yes,131401,91396,43100,360,1,Urban,Private,39,73144,430069,1,Home,Rejected
+LN2466,Female,Yes,1,Graduate,No,302903,180738,75400,240,1,Urban,Business,25,37297,54136,1,Home,Rejected
+LN2467,Male,No,1,Not Graduate,Yes,219503,38787,14000,240,1,Rural,Business,55,26358,111868,2,Home,Approved
+LN2468,Male,No,3,Graduate,Yes,332601,194018,105800,360,1,Semiurban,Government,50,71333,394407,1,Personal,Rejected
+LN2469,Female,Yes,0,Graduate,No,227834,21727,20400,360,1,Rural,Private,45,39581,868599,0,Home,Rejected
+LN2470,Male,No,0,Graduate,No,134084,95081,30100,300,1,Semiurban,Government,43,75192,160957,2,Personal,Approved
+LN2471,Female,Yes,1,Graduate,No,351459,122721,54900,300,1,Urban,Private,23,21462,589767,0,Education,Rejected
+LN2472,Male,Yes,0,Graduate,Yes,210641,68056,100900,240,1,Semiurban,Business,27,35511,169392,2,Home,Approved
+LN2473,Female,Yes,1,Not Graduate,No,205111,134153,30900,240,1,Rural,Private,46,30570,736736,2,Home,Approved
+LN2474,Male,No,3,Not Graduate,No,238299,165268,66200,120,0,Rural,Government,42,68665,710183,1,Personal,Approved
+LN2475,Female,No,3,Graduate,Yes,262982,167807,81200,120,1,Urban,Government,37,64414,830516,0,Education,Approved
+LN2476,Male,No,2,Graduate,No,398185,80102,87000,300,1,Semiurban,Government,52,35474,251528,2,Personal,Approved
+LN2477,Female,No,3,Graduate,No,451064,156570,55300,300,1,Semiurban,Private,35,27037,856017,1,Personal,Approved
+LN2478,Male,No,1,Graduate,No,427825,76865,76600,120,1,Semiurban,Government,49,48129,284847,2,Home,Rejected
+LN2479,Female,No,3,Not Graduate,Yes,334386,162728,72800,120,1,Urban,Government,53,62267,984776,2,Vehicle,Approved
+LN2480,Female,No,2,Graduate,Yes,443715,67695,48600,180,1,Semiurban,Government,49,74146,863051,2,Vehicle,Approved
+LN2481,Female,No,0,Not Graduate,Yes,296553,168972,39500,180,1,Rural,Business,30,33386,911501,2,Personal,Approved
+LN2482,Male,No,1,Not Graduate,Yes,360337,117235,35700,120,0,Semiurban,Business,43,78533,352039,2,Home,Approved
+LN2483,Female,Yes,0,Graduate,No,227556,178773,36700,180,1,Urban,Private,53,74460,315864,2,Education,Rejected
+LN2484,Male,No,2,Not Graduate,Yes,295246,108777,51800,360,1,Semiurban,Private,26,26221,331411,1,Vehicle,Approved
+LN2485,Female,No,2,Not Graduate,Yes,126160,19033,33400,300,1,Semiurban,Government,44,43474,196768,2,Education,Rejected
+LN2486,Male,No,2,Not Graduate,No,346242,141877,108500,300,1,Rural,Business,26,60537,735328,0,Vehicle,Approved
+LN2487,Female,No,0,Not Graduate,No,117633,166923,67300,120,1,Semiurban,Government,53,69839,365508,1,Home,Approved
+LN2488,Male,No,0,Graduate,No,379158,26832,14800,240,1,Rural,Government,31,67124,466561,0,Personal,Approved
+LN2489,Male,No,0,Graduate,Yes,442676,194509,32200,120,1,Rural,Business,36,41045,101567,2,Education,Approved
+LN2490,Female,No,0,Not Graduate,Yes,149104,115725,102000,180,1,Urban,Business,28,45783,141229,0,Education,Approved
+LN2491,Male,No,2,Graduate,Yes,439375,145016,37600,240,1,Rural,Business,50,71046,462601,2,Personal,Approved
+LN2492,Male,No,2,Graduate,No,168388,19873,51900,180,1,Rural,Private,24,60157,526874,2,Education,Approved
+LN2493,Female,No,1,Graduate,No,116014,40372,71000,360,1,Urban,Private,40,24922,249316,1,Vehicle,Rejected
+LN2494,Male,No,1,Graduate,Yes,192578,89464,47400,180,1,Rural,Government,31,66407,770785,1,Personal,Approved
+LN2495,Male,Yes,0,Graduate,No,264827,146451,17200,360,1,Urban,Private,49,42706,914950,2,Vehicle,Approved
+LN2496,Male,Yes,3,Not Graduate,No,140390,117322,115300,360,1,Semiurban,Business,50,62771,657132,1,Vehicle,Approved
+LN2497,Female,No,3,Graduate,No,385855,167823,29400,180,1,Urban,Business,36,72335,213991,0,Home,Approved
+LN2498,Male,No,2,Graduate,Yes,191658,100082,94600,180,1,Rural,Private,56,52479,664985,1,Vehicle,Rejected
+LN2499,Female,Yes,2,Graduate,No,157993,5110,116400,360,1,Urban,Government,27,72949,631484,1,Home,Approved
